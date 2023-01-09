@@ -4,4 +4,8 @@
 #comment 4
 #comment 5
 
+<<<<<<< HEAD
 conftest1111
+=======
+conflict1
+>>>>>>> conflict
